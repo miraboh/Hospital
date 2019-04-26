@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Hospital Management</string>
+    <string name="user_credentials">"USER_CREDENTIALS</string>
+    <string name="doctor_leaves">DOCTOR_LEAVES</string>
+    <string name="doctor_slot">DOCTOR_SLOT</string>
+    <string name="all_doctor_slots">all_doctor_slots</string>
+    <string name="all_pending_appointment">all_pending_appointment</string>
+    <string name="doctor_patient">DOCTOR_PATIENT</string>
+    <string name="staff">STAFF</string>
+
+    <string name="next">Next</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="start">Start</string>
+
+    <string name="slide_1_title">Medicine can cure but a good doctors inspirational words can give strength to fight from within.</string>
+
+    <string name="slide_1_desc">Laughing is the best medicine. But dont laugh for no reason.</string>
+
+    <string name="slide_2_title">Good doctors understand responsibility better than privilege, accountability better than business.</string>
+
+    <string name="slide_2_desc">Embrace more health-conscious lifestyles.</string>
+
+    <string name="slide_3_title">Before saying that we are extraordinary doctors we want to tell you that you are an extraordinary human being.</string>
+
+    <string name="slide_3_desc">Whether headache, fever or the flu, We cure.</string>
+
+    <string name="slide_4_title">A good doctors comforting and reassuring words are some times more powerful than medicine.</string>
+
+    <string name="slide_4_desc">Be always grateful to God for life.</string>
+
+    <string name="text_accounts">All patients Accounts</string>
+
+    <string name="hint_name">Name</string>
+
+    <string name="hint_email">Email</string>
+
+    <string name="hint_password">Password</string>
+
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="text_login">Login</string>
+
+    <string name="text_register">Register</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+
+    <string name="error_message_email">Enter Valid Email</string>
+
+    <string name="error_message_age">Enter Age</string>
+
+    <string name="error_message_password">Enter Password</string>
+
+    <string name="error_message_sex">Enter Sex</string>
+
+    <string name="success_message">Registration Successful</string>
+
+    <string name="text_not_member">No account yet? Create one</string>
+
+    <string name="text_already_member">Already a member? Login</string>
+
+    <string name="error_email_exists">Email Already Exists</string>
+
+    <string name="error_password_match">Password Does Not Matches</string>
+
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="text_hello">Hello!,</string>
+
+    <string name="text_title">Records</string>
+
+
+
+</resources>
